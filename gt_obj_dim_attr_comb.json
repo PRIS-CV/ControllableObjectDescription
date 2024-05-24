@@ -1,0 +1,4227 @@
+{
+    "tv": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "white",
+            "gray",
+            "black"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "styrofoam",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "on",
+            "off"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "length": [
+            "long",
+            "short"
+        ]
+    },
+    "tie": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "red",
+            "green",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "cloth",
+            "denim",
+            "silk",
+            "plush",
+            "cotton",
+            "fabric",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "tartan",
+            "plain",
+            "lined",
+            "speckled",
+            "striped",
+            "plaid",
+            "pinstriped",
+            "checkered",
+            "dotted"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "state": [
+            "bend",
+            "folded"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "length": [
+            "short",
+            "long"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "truck": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "red",
+            "gray",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lettered",
+            "plain",
+            "lined",
+            "striped",
+            "pinstriped"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "covered",
+            "off"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "laptop": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "gray",
+            "black"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "on",
+            "open"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "car": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "red",
+            "gray",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective",
+            "translucent",
+            "transparent"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "on",
+            "cut",
+            "off",
+            "open",
+            "piece",
+            "closed",
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "length": [
+            "long",
+            "short"
+        ]
+    },
+    "couch": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "cloth",
+            "denim",
+            "silk",
+            "plush",
+            "cotton",
+            "fabric",
+            "leather",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "plain",
+            "lined",
+            "speckled",
+            "striped",
+            "pinstriped",
+            "dotted"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "whole",
+            "full",
+            "empty"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "potted plant": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "gray",
+            "black",
+            "white"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "transparency": [
+            "opaque",
+            "translucent",
+            "transparent"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "cut",
+            "full",
+            "piece",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "rough",
+            "sleek"
+        ],
+        "material": [
+            "wooden",
+            "brick",
+            "ceramic",
+            "bamboo",
+            "porcelain",
+            "wood",
+            "hardwood"
+        ],
+        "pattern": [
+            "plain",
+            "lined",
+            "striped",
+            "floral",
+            "pinstriped"
+        ]
+    },
+    "chair": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "gray",
+            "tan",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "stainless steel",
+            "denim",
+            "wooden",
+            "polymer",
+            "metal",
+            "silk",
+            "cotton",
+            "bamboo",
+            "fabric",
+            "metallic",
+            "polymers",
+            "jean",
+            "silver",
+            "plastic",
+            "plush",
+            "styrofoam",
+            "hardwood",
+            "textile",
+            "cloth",
+            "leather",
+            "wood",
+            "copper-zinc",
+            "iron",
+            "aluminum",
+            "brass",
+            "steel",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lined",
+            "pinstriped",
+            "striped",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "cut",
+            "piece",
+            "whole",
+            "empty",
+            "full"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "rough",
+            "hairy",
+            "sleek"
+        ],
+        "length": [
+            "short",
+            "long"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "baseball bat": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "orange",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "wooden",
+            "wood",
+            "hardwood",
+            "bamboo"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "ruined",
+            "broken",
+            "dilapidated"
+        ],
+        "texture": [
+            "smooth",
+            "rough",
+            "sleek"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "sink": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "white",
+            "gray",
+            "tan"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "brick",
+            "metal",
+            "ceramic",
+            "aluminum",
+            "porcelain",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "whole",
+            "full",
+            "empty"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "length": [
+            "long"
+        ]
+    },
+    "toilet": {
+        "cleanliness": [
+            "dirt",
+            "unclean",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "white"
+        ],
+        "material": [
+            "porcelain",
+            "brick",
+            "ceramic"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "state": [
+            "closed"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ]
+    },
+    "person": {
+        "face expression": [
+            "disgust",
+            "surprise",
+            "sad",
+            "laughing",
+            "serious",
+            "grinning",
+            "happy",
+            "joyful",
+            "frowning",
+            "unhappy",
+            "smiling",
+            "neutral",
+            "fear",
+            "calm",
+            "sleepy",
+            "sleeping"
+        ],
+        "gender": [
+            "girl",
+            "female",
+            "boy",
+            "man",
+            "male",
+            "woman",
+            "guy"
+        ],
+        "hair type": [
+            "curly",
+            "straight",
+            "curled"
+        ],
+        "maturity": [
+            "young",
+            "baby",
+            "adult",
+            "aged",
+            "old"
+        ],
+        "pose": [
+            "sit",
+            "sitting",
+            "standing",
+            "upright",
+            "horizontal",
+            "lying",
+            "vertical"
+        ]
+    },
+    "cup": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "orange",
+            "gray",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "stainless steel",
+            "polymer",
+            "brick",
+            "metal",
+            "asphalt",
+            "porcelain",
+            "metallic",
+            "polymers",
+            "silver",
+            "concrete",
+            "plastic",
+            "ceramic",
+            "styrofoam",
+            "glass",
+            "iron",
+            "copper-zinc",
+            "clay",
+            "stucco",
+            "aluminum",
+            "cement",
+            "brass",
+            "steel",
+            "rubber"
+        ],
+        "transparency": [
+            "translucent",
+            "reflective",
+            "opaque",
+            "transparent"
+        ],
+        "pattern": [
+            "plain",
+            "lettered",
+            "tiled"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "covered",
+            "open",
+            "whole",
+            "closed",
+            "empty",
+            "full"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "umbrella": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "red",
+            "green",
+            "orange",
+            "yellow",
+            "blue",
+            "pink",
+            "white"
+        ],
+        "material": [
+            "polymers",
+            "cloth",
+            "denim",
+            "plastic",
+            "polymer",
+            "silk",
+            "plush",
+            "cotton",
+            "rubber",
+            "styrofoam",
+            "fabric",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "plain",
+            "lined",
+            "speckled",
+            "striped",
+            "tiled",
+            "pinstriped",
+            "dotted"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "open"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "boat": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "red",
+            "green",
+            "gray",
+            "yellow",
+            "black",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "wooden",
+            "metal",
+            "aluminum",
+            "bamboo",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "wood",
+            "hardwood"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "lettered",
+            "plain",
+            "lined",
+            "speckled",
+            "striped",
+            "pinstriped",
+            "dotted"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "on",
+            "cut",
+            "piece",
+            "whole",
+            "empty",
+            "full"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "length": [
+            "long",
+            "short"
+        ]
+    },
+    "remote": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "white",
+            "gray",
+            "blue",
+            "black"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "state": [
+            "on"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "backpack": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "red",
+            "gray",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "cloth",
+            "denim",
+            "silk",
+            "plush",
+            "cotton",
+            "fabric",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "tiled",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "closed"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "book": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "red",
+            "orange",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "white",
+            "violet"
+        ],
+        "material": [
+            "cardboard",
+            "paper",
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "cut",
+            "piece",
+            "whole",
+            "closed",
+            "full"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "microwave": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "white",
+            "gray",
+            "black"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "brass",
+            "styrofoam",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "closed",
+            "off"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ]
+    },
+    "dining table": {
+        "material": [
+            "stainless steel",
+            "wooden",
+            "polymer",
+            "metal",
+            "gravel",
+            "bamboo",
+            "metallic",
+            "rocky",
+            "polymers",
+            "silver",
+            "marble",
+            "plastic",
+            "styrofoam",
+            "granite",
+            "sandy",
+            "hardwood",
+            "wood",
+            "copper-zinc",
+            "iron",
+            "cobblestone",
+            "pebbled",
+            "aluminum",
+            "stone",
+            "brass",
+            "steel",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "tartan",
+            "plain",
+            "lined",
+            "speckled",
+            "striped",
+            "plaid",
+            "pinstriped",
+            "checkered",
+            "dotted"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "whole",
+            "covered",
+            "full",
+            "empty"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "rough",
+            "hairy",
+            "sleek"
+        ],
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "pink",
+            "white"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "length": [
+            "short",
+            "long"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ]
+    },
+    "refrigerator": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "white",
+            "gray"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "closed"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "length": [
+            "long",
+            "short"
+        ]
+    },
+    "train": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "red",
+            "green",
+            "orange",
+            "gray",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "length": [
+            "short",
+            "long"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lined",
+            "pinstriped",
+            "striped",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "on"
+        ]
+    },
+    "knife": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "gray",
+            "tan",
+            "black"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pose": [
+            "lying",
+            "horizontal"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "bottle": {
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "orange",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "glass",
+            "styrofoam",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective",
+            "translucent",
+            "transparent"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "cracked",
+            "open",
+            "whole",
+            "closed",
+            "empty",
+            "full"
+        ],
+        "texture": [
+            "smooth",
+            "rough",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "bowl": {
+        "color": [
+            "brown",
+            "orange",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "stainless steel",
+            "polymer",
+            "brick",
+            "metal",
+            "porcelain",
+            "metallic",
+            "polymers",
+            "silver",
+            "cardboard",
+            "plastic",
+            "ceramic",
+            "styrofoam",
+            "paper",
+            "glass",
+            "iron",
+            "copper-zinc",
+            "aluminum",
+            "brass",
+            "steel",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective",
+            "translucent",
+            "transparent"
+        ],
+        "pattern": [
+            "floral",
+            "tiled",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "on",
+            "whole",
+            "closed",
+            "empty",
+            "full"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "broccoli": {
+        "color": [
+            "white",
+            "green"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "state": [
+            "cut",
+            "full",
+            "piece",
+            "whole"
+        ],
+        "texture": [
+            "soft",
+            "fluffy",
+            "furry",
+            "rough",
+            "hairy"
+        ]
+    },
+    "traffic light": {
+        "color": [
+            "red",
+            "green",
+            "gray",
+            "yellow",
+            "black"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "glass",
+            "brass",
+            "styrofoam",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "state": [
+            "on",
+            "off",
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "length": [
+            "long",
+            "short"
+        ]
+    },
+    "bench": {
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "concrete",
+            "stainless steel",
+            "wooden",
+            "clay",
+            "metal",
+            "stucco",
+            "aluminum",
+            "asphalt",
+            "cement",
+            "bamboo",
+            "brass",
+            "metallic",
+            "wood",
+            "hardwood",
+            "steel",
+            "copper-zinc",
+            "iron"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lined",
+            "pinstriped",
+            "striped",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "empty"
+        ],
+        "texture": [
+            "smooth",
+            "rough",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "bicycle": {
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "orange",
+            "white",
+            "red",
+            "black"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "length": [
+            "long"
+        ]
+    },
+    "motorcycle": {
+        "color": [
+            "red",
+            "green",
+            "gray",
+            "tan",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "state": [
+            "whole",
+            "full",
+            "off",
+            "empty"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "length": [
+            "short",
+            "long"
+        ]
+    },
+    "sports ball": {
+        "color": [
+            "white",
+            "yellow",
+            "black"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "leather",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "plain",
+            "lined",
+            "speckled",
+            "striped",
+            "pinstriped",
+            "dotted"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "full",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "length": [
+            "short"
+        ]
+    },
+    "handbag": {
+        "color": [
+            "brown",
+            "red",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "polymers",
+            "cloth",
+            "denim",
+            "plastic",
+            "polymer",
+            "silk",
+            "plush",
+            "cotton",
+            "rubber",
+            "styrofoam",
+            "fabric",
+            "leather",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque",
+            "translucent",
+            "transparent"
+        ],
+        "pattern": [
+            "floral",
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "closed",
+            "open"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "length": [
+            "short"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "suitcase": {
+        "color": [
+            "brown",
+            "red",
+            "orange",
+            "gray",
+            "black"
+        ],
+        "material": [
+            "stainless steel",
+            "denim",
+            "polymer",
+            "metal",
+            "silk",
+            "cotton",
+            "fabric",
+            "metallic",
+            "polymers",
+            "jean",
+            "silver",
+            "plastic",
+            "plush",
+            "styrofoam",
+            "textile",
+            "cloth",
+            "leather",
+            "iron",
+            "copper-zinc",
+            "aluminum",
+            "brass",
+            "steel",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "rough",
+            "sleek"
+        ],
+        "state": [
+            "closed",
+            "open"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "cleanliness": [
+            "dirt",
+            "unclean",
+            "dirty",
+            "muddy"
+        ]
+    },
+    "cell phone": {
+        "color": [
+            "white",
+            "gray",
+            "blue",
+            "black"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "styrofoam",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "on",
+            "off"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "length": [
+            "long"
+        ]
+    },
+    "keyboard": {
+        "color": [
+            "white",
+            "gray",
+            "black"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "tiled",
+            "plain"
+        ],
+        "pose": [
+            "lying",
+            "horizontal"
+        ],
+        "state": [
+            "on"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "length": [
+            "long"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "skis": {
+        "cleanliness": [
+            "dirt",
+            "unclean",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "red",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "length": [
+            "long"
+        ],
+        "material": [
+            "wooden",
+            "plastic",
+            "polymer",
+            "bamboo",
+            "styrofoam",
+            "wood",
+            "hardwood",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ]
+    },
+    "bed": {
+        "color": [
+            "brown",
+            "white",
+            "tan",
+            "black"
+        ],
+        "material": [
+            "cloth",
+            "denim",
+            "silk",
+            "plush",
+            "cotton",
+            "fabric",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "speckled",
+            "dotted",
+            "plain"
+        ],
+        "pose": [
+            "lying",
+            "horizontal"
+        ],
+        "state": [
+            "covered",
+            "full",
+            "dry",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "length": [
+            "long"
+        ]
+    },
+    "horse": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "white",
+            "gray",
+            "black"
+        ],
+        "maturity": [
+            "adult",
+            "old",
+            "aged"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "material": [
+            "pebbled",
+            "marble",
+            "plastic",
+            "polymer",
+            "gravel",
+            "stone",
+            "styrofoam",
+            "granite",
+            "sandy",
+            "rocky",
+            "polymers",
+            "cobblestone",
+            "rubber"
+        ]
+    },
+    "bear": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "tan",
+            "black"
+        ],
+        "maturity": [
+            "adult",
+            "old",
+            "aged"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "sit",
+            "sitting",
+            "standing",
+            "upright",
+            "horizontal",
+            "lying",
+            "vertical"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "wet",
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "material": [
+            "bamboo",
+            "wood",
+            "hardwood",
+            "wooden"
+        ]
+    },
+    "elephant": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "gray"
+        ],
+        "maturity": [
+            "young",
+            "baby",
+            "adult",
+            "aged",
+            "old"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "rough",
+            "hairy",
+            "sleek"
+        ],
+        "material": [
+            "silver",
+            "concrete",
+            "stainless steel",
+            "clay",
+            "stucco",
+            "metal",
+            "aluminum",
+            "asphalt",
+            "cement",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ]
+    },
+    "zebra": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "white",
+            "black"
+        ],
+        "maturity": [
+            "adult",
+            "old",
+            "aged"
+        ],
+        "pattern": [
+            "lined",
+            "pinstriped",
+            "striped",
+            "plain"
+        ],
+        "pose": [
+            "sit",
+            "sitting",
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ]
+    },
+    "dog": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "white",
+            "tan",
+            "black"
+        ],
+        "maturity": [
+            "adult",
+            "old",
+            "aged"
+        ],
+        "pattern": [
+            "spotted",
+            "speckled",
+            "dotted",
+            "plain"
+        ],
+        "pose": [
+            "sit",
+            "sitting",
+            "standing",
+            "upright",
+            "horizontal",
+            "lying",
+            "vertical"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "fluffy",
+            "furry",
+            "soft",
+            "hairy"
+        ]
+    },
+    "sheep": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "gray",
+            "tan",
+            "black",
+            "white"
+        ],
+        "maturity": [
+            "young",
+            "baby",
+            "adult",
+            "aged",
+            "old"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "sit",
+            "sitting",
+            "standing",
+            "upright",
+            "horizontal",
+            "lying",
+            "vertical"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "fluffy",
+            "furry",
+            "soft",
+            "hairy"
+        ]
+    },
+    "kite": {
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "orange",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "polymers",
+            "cardboard",
+            "denim",
+            "cloth",
+            "paper",
+            "plastic",
+            "polymer",
+            "silk",
+            "plush",
+            "cotton",
+            "rubber",
+            "styrofoam",
+            "fabric",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "translucent",
+            "opaque",
+            "transparent"
+        ],
+        "pattern": [
+            "spotted",
+            "tartan",
+            "plain",
+            "lined",
+            "speckled",
+            "striped",
+            "plaid",
+            "pinstriped",
+            "checkered",
+            "dotted"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "state": [
+            "bend",
+            "folded",
+            "wet",
+            "open",
+            "dry"
+        ]
+    },
+    "wine glass": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "material": [
+            "glass"
+        ],
+        "transparency": [
+            "translucent",
+            "transparent"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "state": [
+            "full",
+            "empty",
+            "whole"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "fire hydrant": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "red",
+            "orange",
+            "gray",
+            "tan",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "concrete",
+            "stainless steel",
+            "stucco",
+            "clay",
+            "metal",
+            "aluminum",
+            "asphalt",
+            "cement",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "spotted",
+            "tartan",
+            "plain",
+            "speckled",
+            "plaid",
+            "checkered",
+            "dotted"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "texture": [
+            "smooth",
+            "rough",
+            "sleek"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "state": [
+            "on",
+            "piece",
+            "cut"
+        ]
+    },
+    "skateboard": {
+        "material": [
+            "wooden",
+            "plastic",
+            "polymer",
+            "bamboo",
+            "styrofoam",
+            "wood",
+            "hardwood",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "rough",
+            "sleek"
+        ],
+        "cleanliness": [
+            "dirt",
+            "unclean",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "gray",
+            "tan",
+            "yellow",
+            "black"
+        ]
+    },
+    "fork": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "white",
+            "gray"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "brass",
+            "styrofoam",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "surfboard": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "orange",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "wooden",
+            "plastic",
+            "polymer",
+            "bamboo",
+            "styrofoam",
+            "wood",
+            "hardwood",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ]
+    },
+    "oven": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "white",
+            "gray",
+            "green",
+            "black"
+        ],
+        "length": [
+            "long"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "on",
+            "closed",
+            "off"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ]
+    },
+    "stop sign": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "red",
+            "gray",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lettered"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "state": [
+            "dry"
+        ]
+    },
+    "tennis racket": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "red",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "white"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "wooden",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "bamboo",
+            "styrofoam",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "polymers",
+            "wood",
+            "hardwood",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "state": [
+            "dry"
+        ],
+        "length": [
+            "short",
+            "long"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "mouse": {
+        "color": [
+            "white",
+            "gray",
+            "red",
+            "black"
+        ],
+        "length": [
+            "long"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "lying",
+            "horizontal"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "giraffe": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "brown",
+            "white",
+            "tan"
+        ],
+        "maturity": [
+            "adult",
+            "old",
+            "aged"
+        ],
+        "pattern": [
+            "spotted",
+            "speckled",
+            "dotted"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ]
+    },
+    "banana": {
+        "color": [
+            "brown",
+            "yellow",
+            "black"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "state": [
+            "full",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ]
+    },
+    "clock": {
+        "color": [
+            "brown",
+            "white",
+            "black"
+        ],
+        "material": [
+            "stainless steel",
+            "wooden",
+            "polymer",
+            "metal",
+            "bamboo",
+            "metallic",
+            "polymers",
+            "silver",
+            "plastic",
+            "styrofoam",
+            "hardwood",
+            "glass",
+            "iron",
+            "copper-zinc",
+            "wood",
+            "aluminum",
+            "brass",
+            "steel",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque",
+            "translucent",
+            "transparent"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "state": [
+            "on",
+            "full",
+            "whole"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "length": [
+            "long"
+        ]
+    },
+    "bus": {
+        "color": [
+            "red",
+            "green",
+            "orange",
+            "gray",
+            "yellow",
+            "black",
+            "blue",
+            "pink",
+            "white",
+            "violet"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "covered",
+            "on",
+            "closed"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ]
+    },
+    "toothbrush": {
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "white",
+            "blue",
+            "green",
+            "black"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "off",
+            "dry"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "texture": [
+            "fluffy",
+            "hairy",
+            "soft",
+            "furry"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "spoon": {
+        "color": [
+            "brown",
+            "orange",
+            "gray"
+        ],
+        "material": [
+            "silver",
+            "polymers",
+            "stainless steel",
+            "wooden",
+            "plastic",
+            "metal",
+            "polymer",
+            "aluminum",
+            "bamboo",
+            "brass",
+            "styrofoam",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel",
+            "wood",
+            "hardwood",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque",
+            "reflective"
+        ],
+        "pose": [
+            "lying",
+            "horizontal"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "length": [
+            "long",
+            "short"
+        ],
+        "state": [
+            "on"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "pattern": [
+            "plain"
+        ]
+    },
+    "cat": {
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "color": [
+            "brown",
+            "white",
+            "gray",
+            "black"
+        ],
+        "material": [
+            "concrete",
+            "stucco",
+            "clay",
+            "cement",
+            "asphalt"
+        ],
+        "maturity": [
+            "young",
+            "baby",
+            "adult",
+            "aged",
+            "old"
+        ],
+        "pattern": [
+            "lined",
+            "pinstriped",
+            "striped"
+        ],
+        "pose": [
+            "sit",
+            "sitting",
+            "standing",
+            "upright",
+            "horizontal",
+            "lying",
+            "vertical"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "fluffy",
+            "furry",
+            "soft",
+            "hairy"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "vase": {
+        "color": [
+            "brown",
+            "violet",
+            "black"
+        ],
+        "material": [
+            "porcelain",
+            "brick",
+            "ceramic",
+            "glass"
+        ],
+        "transparency": [
+            "opaque",
+            "translucent",
+            "transparent"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "state": [
+            "full",
+            "empty",
+            "whole"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "length": [
+            "long"
+        ],
+        "size": [
+            "tiny",
+            "small",
+            "little",
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ]
+    },
+    "parking meter": {
+        "color": [
+            "gray",
+            "yellow"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "pattern": [
+            "lettered"
+        ]
+    },
+    "teddy bear": {
+        "color": [
+            "brown",
+            "red",
+            "gray",
+            "tan",
+            "yellow",
+            "black",
+            "blue",
+            "pink",
+            "white",
+            "violet"
+        ],
+        "material": [
+            "cloth",
+            "denim",
+            "silk",
+            "plush",
+            "cotton",
+            "fabric",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "texture": [
+            "fluffy",
+            "furry",
+            "soft",
+            "hairy"
+        ],
+        "pattern": [
+            "tartan",
+            "checkered",
+            "plaid",
+            "plain"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "state": [
+            "dry"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "length": [
+            "long"
+        ]
+    },
+    "snowboard": {
+        "color": [
+            "white",
+            "blue",
+            "black"
+        ],
+        "material": [
+            "wooden",
+            "plastic",
+            "polymer",
+            "bamboo",
+            "styrofoam",
+            "wood",
+            "hardwood",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "length": [
+            "long"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "dirt",
+            "unclean",
+            "dirty",
+            "muddy"
+        ]
+    },
+    "frisbee": {
+        "color": [
+            "white",
+            "blue",
+            "pink",
+            "yellow"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "polymers",
+            "rubber"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "state": [
+            "full",
+            "whole"
+        ]
+    },
+    "baseball glove": {
+        "color": [
+            "brown",
+            "white",
+            "blue",
+            "black"
+        ],
+        "material": [
+            "cloth",
+            "denim",
+            "silk",
+            "plush",
+            "cotton",
+            "fabric",
+            "leather",
+            "textile",
+            "jean"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "pattern": [
+            "lettered",
+            "plain"
+        ],
+        "state": [
+            "open",
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ],
+        "length": [
+            "short"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "airplane": {
+        "color": [
+            "white",
+            "gray",
+            "red"
+        ],
+        "material": [
+            "silver",
+            "stainless steel",
+            "metal",
+            "aluminum",
+            "brass",
+            "metallic",
+            "iron",
+            "copper-zinc",
+            "steel"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "state": [
+            "on",
+            "full",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ],
+        "pattern": [
+            "lined",
+            "pinstriped",
+            "striped",
+            "plain"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "length": [
+            "short",
+            "long"
+        ]
+    },
+    "bird": {
+        "color": [
+            "brown",
+            "red",
+            "gray",
+            "yellow",
+            "black",
+            "white"
+        ],
+        "maturity": [
+            "adult",
+            "old",
+            "aged"
+        ],
+        "pattern": [
+            "plain"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "material": [
+            "cardboard",
+            "cloth",
+            "paper",
+            "denim",
+            "silk",
+            "plush",
+            "cotton",
+            "fabric",
+            "textile",
+            "jean"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat"
+        ]
+    },
+    "cow": {
+        "color": [
+            "brown",
+            "white",
+            "gray",
+            "black"
+        ],
+        "maturity": [
+            "adult",
+            "old",
+            "aged"
+        ],
+        "pattern": [
+            "spotted",
+            "plain",
+            "speckled",
+            "floral",
+            "dotted"
+        ],
+        "pose": [
+            "standing",
+            "upright",
+            "lying",
+            "horizontal",
+            "vertical"
+        ],
+        "size": [
+            "big",
+            "large",
+            "huge",
+            "giant"
+        ],
+        "state": [
+            "dry"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "cleanliness": [
+            "clean",
+            "neat",
+            "unclean",
+            "dirt",
+            "dirty",
+            "muddy"
+        ],
+        "material": [
+            "plastic",
+            "polymer",
+            "styrofoam",
+            "leather",
+            "polymers",
+            "rubber"
+        ]
+    },
+    "sandwich": {
+        "color": [
+            "brown",
+            "green",
+            "tan",
+            "black",
+            "white"
+        ],
+        "state": [
+            "cut",
+            "full",
+            "piece",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "rough",
+            "hairy",
+            "sleek"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "pizza": {
+        "color": [
+            "brown",
+            "red",
+            "orange",
+            "tan",
+            "yellow",
+            "white"
+        ],
+        "state": [
+            "cut",
+            "full",
+            "piece",
+            "whole"
+        ],
+        "texture": [
+            "soft",
+            "fluffy",
+            "furry",
+            "rough",
+            "hairy"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "cake": {
+        "color": [
+            "brown",
+            "red",
+            "green",
+            "tan",
+            "yellow",
+            "black",
+            "white"
+        ],
+        "state": [
+            "cut",
+            "full",
+            "piece",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "hairy",
+            "sleek"
+        ],
+        "size": [
+            "small",
+            "little",
+            "big",
+            "giant",
+            "large",
+            "huge",
+            "tiny"
+        ]
+    },
+    "hot dog": {
+        "color": [
+            "tan",
+            "yellow"
+        ],
+        "state": [
+            "full",
+            "whole"
+        ],
+        "texture": [
+            "fluffy",
+            "hairy",
+            "soft",
+            "furry"
+        ]
+    },
+    "orange": {
+        "color": [
+            "orange",
+            "yellow"
+        ],
+        "state": [
+            "cut",
+            "piece"
+        ],
+        "texture": [
+            "fluffy",
+            "furry",
+            "soft",
+            "hairy"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    "apple": {
+        "color": [
+            "red",
+            "yellow"
+        ],
+        "state": [
+            "full",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ]
+    },
+    "carrot": {
+        "color": [
+            "orange"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "state": [
+            "full",
+            "cut",
+            "piece",
+            "whole"
+        ],
+        "texture": [
+            "smooth",
+            "soft",
+            "fluffy",
+            "furry",
+            "rough",
+            "hairy",
+            "sleek"
+        ]
+    },
+    "donut": {
+        "color": [
+            "brown",
+            "yellow"
+        ],
+        "size": [
+            "small",
+            "little",
+            "tiny"
+        ],
+        "state": [
+            "full",
+            "cut",
+            "piece",
+            "whole"
+        ],
+        "texture": [
+            "fluffy",
+            "furry",
+            "soft",
+            "hairy"
+        ]
+    },
+    "hair drier": {
+        "cleanliness": [
+            "dirt",
+            "unclean",
+            "dirty",
+            "muddy"
+        ],
+        "color": [
+            "white",
+            "black"
+        ],
+        "transparency": [
+            "opaque"
+        ],
+        "pose": [
+            "vertical",
+            "standing",
+            "upright"
+        ],
+        "texture": [
+            "smooth",
+            "sleek"
+        ]
+    }
+}
