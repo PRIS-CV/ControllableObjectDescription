@@ -8,7 +8,7 @@
 Code for our paper "Detailed Object Description with Controllable Dimensions".
 
 <p align="center">
-    <img src="figs/refine_method_aaai.png" width="80%"> <br>
+    <img src="figs/refine_method_aaai.jpg" width="80%"> <br>
   <p align="center" style="font-size:1.2vw;">The diagram of our description refinement pipeline, Dimension Tailor</p>
 </p>
 
