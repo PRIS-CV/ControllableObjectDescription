@@ -98,3 +98,19 @@ Here's the model we tested in our paper:
 - [Ferret](https://github.com/apple/ml-ferret)
 - [Osprey](https://github.com/CircleRadon/Osprey)
 
+## Citation
+If this work is helpful to you please consider citing the article below.
+```text
+@misc{wang2024detailedobjectdescriptioncontrollable,
+      title={Detailed Object Description with Controllable Dimensions}, 
+      author={Xinran Wang and Haiwen Zhang and Baoteng Li and Kongming Liang and Hao Sun and Zhongjiang He and Zhanyu Ma and Jun Guo},
+      year={2024},
+      eprint={2411.19106},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.19106}, 
+}
+```
+
+
+
