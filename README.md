@@ -21,8 +21,8 @@ Code for our paper ["Detailed Object Description with Controllable Dimensions"](
 
 1. Clone this repository and navigate to Attribute Polisher folder
 ```bash
-git clone https://anonymous.4open.science/r/145501C3/
-cd ObjectDescription
+git clone https://github.com/PRIS-CV/ControllableObjectDescription.git
+cd ControllableObjectDescription
 ```
 
 2. Install Package
